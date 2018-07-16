@@ -17,7 +17,7 @@
 ![](https://github.com/northin/vue-ssr/blob/master/img/1.png)
     
     结果
-![](D:\web\vue\ssr\img\2.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/2.png)
 
     2.开始服务端渲染
 #### 依赖
@@ -37,7 +37,7 @@
 "babel-loader": "^7.1.5"
 
     项目结构
-![](D:\web\vue\ssr\img\mulu.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/mulu.png)
     
     说明：
 - app的是vue项目
@@ -52,7 +52,7 @@
     
     3.步骤
 
-![](D:\web\vue\ssr\img\guocheng.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/guocheng.png)
 
 - App.vue
 
@@ -76,13 +76,13 @@ export default function createApp(){
 - componment是组件   
 - client_entry.js
 
-![](D:\web\vue\ssr\img\client1.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/client1.png)
 
-![](D:\web\vue\ssr\img\client2.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/client2.png)
 
 - server_entry.js
 
-![](D:\web\vue\ssr\img\server.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/server.png)
 
     组件内调用：
 
@@ -115,11 +115,11 @@ options: {
     后台服务：
 	    index.js
 
-![](D:\web\vue\ssr\img\node.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/node.png)
 
 ## 后记：
 
-	只是简单入门项目，运用起来应该还有很多地方有坑。只是根据官网https://ssr.vuejs.org/zh/实现了基本Dom，路由，异步数据加载（基于axios，vuex）这	些功能。
+	只是简单入门项目，运用起来应该还有很多地方有坑。只是根据官网https://ssr.vuejs.org/zh/实现了基本Dom，路由，异步数据加载（基于axios，vuex）这些功能。
 
 
 ### 遇到的问题
