@@ -14,7 +14,7 @@
 ### 过程
     1.试一下
 
-![](D:\web\vue\ssr\img\1.png)
+![](https://github.com/northin/vue-ssr/blob/master/img/1.png)
     
     结果
 ![](D:\web\vue\ssr\img\2.png)
